@@ -1,23 +1,4 @@
-# Imports Used
-
--import java.awt.event.*;
--import java.awt.*;
--import javax.swing.*;
--import java.awt.event.ActionListener;
-
--import javax.swing.JPanel;
--import java.util.Random;
-
-# Keywords Used
-
-- import //
-- extends //
-- implements //
-- this
-- 
-
-
-# Screenshots
+Screenshots
 
 ![1781890582366](image/READme/1781890582366.png)
 
